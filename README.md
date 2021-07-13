@@ -1,4 +1,4 @@
-# Bro/Zeek Detection Scrip Collection
+# Bro/Zeek Detection Script Collection
 A collection of bro/zeek detection scripts. This is just a list.
 
 ## Detection of techniques
