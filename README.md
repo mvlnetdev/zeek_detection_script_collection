@@ -7,7 +7,7 @@ A collection of bro/zeek detection scripts. This is just a list.
 - [Ransomware Filenames](https://github.com/corelight/detect-ransomware-filenames)
 - [PingBack](https://github.com/corelight/pingback)
 - [Cryptomining](https://github.com/jsiwek/zeek-cryptomining)
-- 
+
 
 ## Detection of Vulnerabilities
 - CVE-2020-0601
@@ -34,4 +34,4 @@ A collection of bro/zeek detection scripts. This is just a list.
 
 ## Other
 - [Plaintext Password Sniffer](https://github.com/cybera/zeek-sniffpass)
-- 
+
